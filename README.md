@@ -32,6 +32,8 @@ Dashboard can be defined as a data visualization tool that displays the current 
 The Big fashion Group sales dynamic dashboard contains the different information of the sales of data explain above.
 The Dashboard contain the three slicers of category, financial year and state and six different graphs including pie chart, line plot, bar graph and map chart.
 
+![Alt text](https://github.com/Er-Vishal-Kathpalia/Pivot_Table/blob/master/image.png "Optional title")
+
 ## Video link (Summary)::
 ```
 https://youtu.be/kIlyDcTYe4I
